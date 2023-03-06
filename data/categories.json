@@ -1,0 +1,18 @@
+[
+    {
+        "id":0,
+        "name": "All categories"
+    },
+    {
+        "id":1,
+        "name": "Man"
+    },
+    {
+        "id":2,
+        "name": "Woman"
+    },
+    {
+        "id":3,
+        "name": "Kids"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "id":0,
+        "name":"All brands"
+    },
+    {
+        "id":1,
+        "name":"Prada"
+    },
+    {
+        "id":2,
+        "name":"Gucci"
+    },
+    {
+        "id":3,
+        "name":"JW Anderson"
+    },
+    {
+        "id":4,
+        "name":"The Row"
+    },
+    {
+        "id":5,
+        "name":"Dolce & Gabbana"
+    },
+    {
+        "id":6,
+        "name":"Louis Vuitton"
+    },
+    {
+        "id":7,
+        "name":"Versace"
+    },
+    {
+        "id":8,
+        "name":"Dior"
+    },
+    {
+        "id":9,
+        "name":"Adidas"
+    },
+    {
+        "id":10,
+        "name":"Nike"
+    }
+]

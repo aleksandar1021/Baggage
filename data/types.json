@@ -1,0 +1,22 @@
+[
+    {
+        "id":0,
+        "name":"All types"
+    },
+    {
+        "id":1,
+        "name":"Messenger bag"
+    },
+    {
+        "id":2,
+        "name":"Shoulder bag"
+    },
+    {
+        "id":3,
+        "name":"Sling bag"
+    },
+    {
+        "id":4,
+        "name":"School bag"
+    }
+]

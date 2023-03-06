@@ -1,0 +1,262 @@
+[
+    {
+        "id":1,
+        "name":"Gucci Bamboo Bag",
+        "image":{
+            "alt":"tGucci Bamboo Bag",
+            "src":"images/b6.jpg"
+        },
+        "description":"The Ophidia line continues to be one of Gucci signature handbags. New silhouettes are introduced each season, providing versatile accessories to complete any look. Two handles transform this tote bag, allowing it to be styled either as a shoulder bag or top handle. The Double G remains integral to the design, presented across an white leather base.",
+        "stars": 4.5,
+        "delivery": true,
+        "price":{
+            "old":null,
+            "current":670
+        },
+        "categoryId":2,
+        "colorId":4,
+        "brandId":2,
+        "typeId": 1,
+        "trendId":1
+    },
+    {
+        "id":2,
+        "name":"Greca goddess small shoulder bag",
+        "image":{
+            "alt":"GRECA GODDESS SMALL SHOULDER BAG",
+            "src":"images/b5.jpg"
+        },
+        "description":"Harnessing Versace’s reverence for myth and culture, the Greca Goddess line is characterized by the central Greca chain hardware and detachable chain strap. Crafted in Italy from smooth leather, it features a spacious interior with an additional slip compartment. An interchangeable leather strap can be adjusted for shoulder, crossbody or hand carry options.",
+        "stars": 3.5,
+        "delivery": false,
+        "price":{
+            "old":450,
+            "current":330
+        },
+        "categoryId":2,
+        "colorId":5,
+        "brandId":7,
+        "typeId": 2,
+        "trendId":null
+    },
+    {
+        "id":3,
+        "name":"Gucci Jackie",
+        "image":{
+            "alt":"Gucci Jackie",
+            "src":"images/b4.jpg"
+        },
+        "description":"The Ophidia line continues to be one of Gucci signature handbags. New silhouettes are introduced each season, providing versatile accessories to complete any look. Two handles transform this tote bag, allowing it to be styled either as a shoulder bag or top handle. The Double G remains integral to the design, presented across a soft black leather base.",
+        "stars": 4.5,
+        "delivery": true,
+        "price":{
+            "old":null,
+            "current":520
+        },
+        "categoryId":2,
+        "colorId":6,
+        "brandId":2,
+        "typeId": 1,
+        "trendId":3
+    },
+    {
+        "id":4,
+        "name":"JW Anderson elite bag",
+        "image":{
+            "alt":"JW Anderson elite bag",
+            "src":"images/b1.jpg"
+        },
+        "description":"Dimensions: Width: 28.5cm, Height: 36.5cm, Depth: 22.5cm.",
+        "stars": 5,
+        "delivery": true,
+        "price":{
+            "old":940,
+            "current":630
+        },
+        "categoryId":2,
+        "colorId":1,
+        "brandId":3,
+        "typeId": 2,
+        "trendId":2
+    },
+    {
+        "id":5,
+        "name":"Dior 30 montaige bag",
+        "image":{
+            "alt":"Dior",
+            "src":"images/b44.jpg"
+        },
+        "description":"The 30 Montaigne Avenue bag enhances the hallmark line with a timeless and elegant style. Crafted in black box calfskin, the rounded flap with delicate curves is punctuated by an antique gold-finish metal CD clasp inspired by the seal of a Christian Dior perfume bottle. The design is completed by other details, like the 30 Montaigne signature embossed on the back and the signature chain alternating gold-finish metal and tonal enamel links that match the leather. The gusseted bag features a spacious and refined silhouette that can be carried by hand, worn over the shoulder or crossbody.",
+        "stars": 4,
+        "delivery": true,
+        "price":{
+            "old":690,
+            "current":580
+        },
+        "categoryId":2,
+        "colorId":5,
+        "brandId":8,
+        "typeId": 2,
+        "trendId":2
+    },
+    {
+        "id":6,
+        "name":"Luis Vuitton Sac Plat PM",
+        "image":{
+            "alt":"Luis Vuitton",
+            "src":"images/b7.jpg"
+        },
+        "description":"Louis Vuitton reinterprets its iconic Sac Plat for today’s lifestyles. The Sac Plat PM handbag is made from Monogram canvas with natural leather trim. Its red interior includes a zipped and 2 flat pockets. The top handles and detachable shoulder strap mean it can be carried by hand, worn on the shoulder or cross-body.",
+        "stars": 5,
+        "delivery": false,
+        "price":{
+            "old":690,
+            "current":470
+        },
+        "categoryId":2,
+        "colorId":8,
+        "brandId":6,
+        "typeId": 2,
+        "trendId":null
+    },
+    {
+        "id":7,
+        "name":"DOLCE&GABBANA leather crossbody bag",
+        "image":{
+            "alt":"DOLCE&GABBANA",
+            "src":"images/b8.jpg"
+        },
+        "description":"This crossbody bag from Dolce&Gabbana offers a contemporary edge. Made from smooth leather, this blue rendition features an adjustable and detachable strap, and the house's signature embossed DG logo on the front.",
+        "stars": 5,
+        "delivery": true,
+        "price":{
+            "old":null,
+            "current":570
+        },
+        "categoryId":2,
+        "colorId":6,
+        "brandId":5,
+        "typeId": 2,
+        "trendId":1
+    },
+    {
+        "id":8,
+        "name":"Prada Small antique nappa leather tote",
+        "image":{
+            "alt":"Small antique nappa leather tote",
+            "src":"images/b2.jpg"
+        },
+        "description":"This bag with casual, everyday allure is made of glossy nappa leather with a natural finish. The handmade wrinkled effect contrasts with the concept of a rigid construction, reinterpreting an everyday object that can be worn without constraints. Presented for the Spring Summer 2023 collection, the accessory is decorated with the enameled metal triangle logo.",
+        "stars": 5,
+        "delivery": false,
+        "price":{
+            "old":520,
+            "current":370
+        },
+        "categoryId":2,
+        "colorId":1,
+        "brandId":1,
+        "typeId": 1,
+        "trendId":null
+    },
+    {
+        "id":9,
+        "name":"The Row Sofia leather shoulder bag",
+        "image":{
+            "alt":"The Row Sofia leather shoulder bag",
+            "src":"images/b3.jpg"
+        },
+        "description":"The Sofia shoulder bag spotlights The Row’s vision for everlasting elegance. Rendered from smooth calfskin, this streamlined style has a sophisticated flap front and polished lock closure.",
+        "stars": 4.5,
+        "delivery": true,
+        "price":{
+            "old":990,
+            "current":970
+        },
+        "categoryId":2,
+        "colorId":4,
+        "brandId":4,
+        "typeId": 1,
+        "trendId":3
+    },
+    {
+        "id":10,
+        "name":"JW Anderson school bag",
+        "image":{
+            "alt":"JW Anderson",
+            "src":"images/g4.jpg"
+        },
+        "description":"Backpack intended for students, employees with a lot of space and compartments inside the backpack.",
+        "stars": 3.5,
+        "delivery": true,
+        "price":{
+            "old":940,
+            "current":690
+        },
+        "categoryId":1,
+        "colorId":9,
+        "brandId":3,
+        "typeId": 4,
+        "trendId":null
+    },
+    {
+        "id":11,
+        "name":"Adidas sling bag",
+        "image":{
+            "alt":"Adidas sling bag",
+            "src":"images/b11.jpg"
+        },
+        "description":"Nothing says casual quite like a comfy, over-the-shoulder bag. Complete your easy, everyday look with this adidas sling bag. It has just enough room for everything you need, so throw in your essentials, adjust the strap to fit and head out. Contrast adidas Trefoil logos add a sporty touch to any outfit.",
+        "stars": 4,
+        "delivery": false,
+        "price":{
+            "old":null,
+            "current":40
+        },
+        "categoryId":1,
+        "colorId":7,
+        "brandId":9,
+        "typeId": 3,
+        "trendId":1
+    },
+    {
+        "id":12,
+        "name":"Nike sling bag",
+        "image":{
+            "alt":"nike sling bag",
+            "src":"images/b00.jpg"
+        },
+        "description":"Nothing says casual quite like a comfy, over-the-shoulder bag. Complete your easy, everyday look with this adidas sling bag.",
+        "stars": 4.5,
+        "delivery": false,
+        "price":{
+            "old":null,
+            "current":50
+        },
+        "categoryId":1,
+        "colorId":7,
+        "brandId":10,
+        "typeId": 3,
+        "trendId":1
+    },
+    {
+        "id":13,
+        "name":"Nike school bag",
+        "image":{
+            "alt":"nike bag",
+            "src":"images/kid.jpg"
+        },
+        "description":"Get ready for school with the Nike Backpack. Its durable design features 2 zip compartments to keep your stuff secure. Padded shoulder straps are adjustable for comfort and the fit you want.",
+        "stars": 3,
+        "delivery": false,
+        "price":{
+            "old":150,
+            "current":90
+        },
+        "categoryId":3,
+        "colorId":6,
+        "brandId":10,
+        "typeId": 4,
+        "trendId":3
+    }
+]

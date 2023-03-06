@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Facebook",
+        "href": "https://www.facebook.com/",
+        "className":"fa fa-facebook"
+    },
+    {
+        "name": "Twitter",
+        "href": "https://www.twitter.com/",
+        "className":"fa fa-twitter"
+    },
+    {
+        "name": "Google",
+        "href": "https://www.google.com/",
+        "className":"fa fa-google"
+    }
+]

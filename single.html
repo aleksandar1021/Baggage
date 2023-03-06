@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <title>Baggage Ecommerce | Single</title>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="author" content="Aleksandar Kandić"/>
+    <meta name="language" content="english"/>
+    <meta name="copyright" content="gags store"/>
+    <meta name="description" content="bags store, all bags in our stole"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="keywords" content="Baggage Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design, bags,adidas,nike,versace,dior,gucci,dolce and gabana" />
+    <link rel="stylesheet" href="css/bootstrap.css"/>
+    <link rel="stylesheet" href="css/bootstrap.css"/>
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="all"/>
+    <link href="css/font-awesome.css" rel="stylesheet"/>
+    <link href="//fonts.googleapis.com/css?family=Hind:300,400,500,600,700" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css"/>
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico"/>
+
+</head>
+
+<body>
+    <div class="preloader">
+        <div class="loader"></div>
+    </div>
+    <div id="modalCart">
+        <div class="row2">
+            <h4 class="ml-2">Your cart</h4>
+            <div id="closeModal">X</div>
+        </div>
+        <div id="modalContent">
+            
+        </div>
+        <div class="row3">
+            <div class="tot">
+                <h3>Total price:&nbsp;</h3>
+                <h3 id="total"></h3>
+            </div>
+            <div id="izlaz">
+                <a id="preusmeri"><div id="naruci">Checkout</div></a>
+                <div id="obrisi">Empty the cart</div>
+            </div>
+        </div>
+    </div>
+    <div id="modalError" >
+        <div class="row2">
+            <h4 class="ml-2"></h4>
+            <div id="closeModal4">X</div>
+            <div id="cont"></div>
+        </div>
+        <p class="text-center pt-4 py-3 px-3"></p>
+    </div>
+    <div id="modalMail" >
+        <div class="row2">
+            <h4 class="ml-2"></h4>
+            <div id="closeModal3">X</div>
+        </div>
+        <p class="text-center pt-4 py-3 px-3" id="suc"></p>
+    </div>
+    <div class="main-sec inner-page">
+        <!-- //header -->
+        <header class="py-sm-3 pt-3 pb-2" id="home">
+            <div class="container">
+                <!-- nav -->
+                <div class="top-w3pvt d-flex">
+                    <div id="logo">
+                        <h1> <a href="index.html"><span class="log-w3pvt">B</span>aggage</a> <label class="sub-des">Online Store</label></h1>
+                    </div>
+
+                    <div class="forms ml-auto" id="cart">
+                        <i class="zmdi zmdi-shopping-cart"></i><div id="krug"><p id="broj">0</p></div>
+                    </div>
+                </div>
+                <div class="nav-top-wthree">
+                    <nav>
+                        <label for="drop" class="toggle"><span class="fa fa-bars"></span></label>
+                        <input type="checkbox" id="drop" />
+                        <ul class="menu" id="navigation">
+                            
+                        </ul>
+                    </nav>
+                    <!-- //nav -->
+                    <div class="search-form ml-auto">
+                        <div class="form-w3layouts-grid">
+                            <form action="#" method="post" class="newsletter">
+                                <input class="search" id="trazi" type="search" placeholder="Search here..." required="">
+                                
+                            </form>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </header>
+        <!-- //header -->
+    </div>
+    <!-- //banner-->
+    <!--/banner-bottom -->
+    <section class="banner-bottom py-5">
+        <div class="container py-md-5">
+            <!-- product right -->
+            <div class="left-ads-display wthree">
+                <div class="row">
+                    <div class="desc1-left col-md-6" >
+                        <img id="slika" src="" class="img-fluid" alt="">
+                    </div>
+                    
+                    <div class="desc1-right col-md-6 pl-lg-3">
+                        <h1 id="naziv"></h1>                        
+                        <h2 class="mt-2">Brand:</h2>
+                        <h3 class="mt-1 dodatak" id="brand"></h3>
+                        <h2 class="mt-2 ">Color:</h2>
+                        <h3 class="mt-1 dodatak" id="color"></h3>
+                        <h2 class="mt-2 ">Type:</h2>
+                        <h3 class="mt-1 dodatak" id="tip"></h3>
+                        <h2 class="mt-2 ">Intended for:</h2>
+                        <h3 class="mt-1 dodatak" id="za"></h3>
+                        <h2 class="mt-2 ">Price:</h2>
+                        <div id="cene">
+                            <h3 class="mt-2 dodatak" id="nova"></h3>
+                            <del class="mt-2 dodatak" id="stara"></del>
+                        </div>
+                        <button id="add-to-cart-button">Add to cart</button>
+                        
+                    </div>
+
+                    <div id="dodato">
+                        <p>The product has been added to the cart</p>
+                    </div>
+
+
+                </div>
+                <div class="sub-para-w3pvt my-5">
+                    <h2 class="shop-sing mb-4 mb-3">Description:</h2>
+                    <p id="opis"></p>
+                </div>
+
+
+               
+    </section>
+    <!-- /banner-bottom -->
+    <section class="newsletter-w3pvt py-5">
+        <div class="container py-md-5">
+            <form method="post" action="#">
+                <p class="text-center">Subscribe to the Handbags Store mailing list to receive updates on new arrivals, special offers and other discount information.</p>
+                <div class="row subscribe-sec">
+                    <div class="col-md-9">
+                        <input type="email" class="form-control" id="email" placeholder="Enter Your Email.." name="email" >
+
+                    </div>
+                    <div class="col-md-3">
+                        <button type="button" class="btn submit" id="su">Subscribe</button>
+                    </div>
+
+                </div>
+                <div class="row p-3">
+                    <p id="poruka"></p>
+                </div>
+
+            </form>
+        </div>
+    </section>
+    <!--/newsletter -->
+    <section class="shipping-wthree">
+        <div class="shiopping-grids d-lg-flex">
+            <div class="col-lg-4 shiopping-w3pvt-gd text-center">
+                <div class="icon-gd"><span class="fa fa-truck" aria-hidden="true"></span>
+                </div>
+                <div class="icon-gd-info">
+                    <h3>FREE SHIPPING</h3>
+                    <p>On all order over $2000</p>
+                </div>
+            </div>
+            <div class="col-lg-4 shiopping-w3pvt-gd sec text-center">
+                <div class="icon-gd"><span class="fa fa-bullhorn" aria-hidden="true"></span></div>
+                <div class="icon-gd-info">
+                    <h3>FREE RETURN</h3>
+                    <p>On 1st exchange in 30 days</p>
+                </div>
+            </div>
+            <div class="col-lg-4 shiopping-w3pvt-gd text-center">
+                <div class="icon-gd"> <span class="fa fa-gift" aria-hidden="true"></span></div>
+                <div class="icon-gd-info">
+                    <h3>MEMBER DISCOUNT</h3>
+                    <p>Register &amp; save up to $29%</p>
+                </div>
+
+            </div>
+        </div>
+
+    </section>
+    <!--//shipping-->
+    <!-- footer -->
+    <div class="footer_agileinfo_topf py-5">
+        <div class="container py-md-5">
+            <div class="row" id="fot">
+                <div class="col-lg-3 footer_wthree_gridf mt-lg-5">
+                    <h2><a href="index.html"><span>B</span>aggage
+                        </a> </h2>
+                    <label class="sub-des2">Online Store</label>
+                </div>
+                <div class="col-lg-5 footer_wthree_gridf mt-md-0 mt-4" >
+                    <ul class="footer_wthree_gridf_list"id="list">
+                        <li>
+                            <a href="index.html">Home</a>
+                        </li>
+                        <li>
+                            <a href="about.html">About us</a>
+                        </li>
+                        <li>
+                            <a href="shop.html">Collection</a>
+                        </li>
+                        <li>
+                            <a href="contact.html">Contact</a>
+                        </li>
+
+                    </ul>
+                </div>
+                
+
+               
+            </div>
+
+            <div class="w3ls-fsocial-grid">
+                
+                <h3 class="sub-w3ls-headf">Follow Us</h3>
+                <div class="social-ficons">
+                    <ul id="social"></ul>
+                </div>
+            </div>
+            <div class="move-top text-center mt-lg-4 mt-3">
+                <a href="#home"><span class="fa fa-angle-double-up" aria-hidden="true"></span></a>
+            </div>
+        </div>
+    </div>
+    <!-- //footer -->
+    <!-- copyright -->
+    <div class="cpy-right text-center py-3 foot">
+        <div><a id="doc" target="_blank" href="dokumentacija.pdf">Documentation</a></div>
+        <p>© 2019 Baggage. All rights reserved | Design by
+            <a href="http://w3layouts.com"> W3layouts.</a>
+        </p>
+        <div id="raz"></div>
+    </div>
+    <!-- //copyright -->
+
+    <script
+        src="https://code.jquery.com/jquery-3.6.1.js"
+        integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI="
+        crossorigin="anonymous">
+    </script>
+    <script src="js/main.js" type="text/javaScript"></script>
+
+</body>
+
+</html>
